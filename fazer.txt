@@ -1,0 +1,3 @@
+arrumar a responsabilidade do devs
+colocar o insta no pop up
+arrumar a linkagem do insta, colocar a linha até o final no footer e no footer da timeline arrumar a linha
