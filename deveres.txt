@@ -1,0 +1,19 @@
+deveres
+
+1-adicionar a acessibilidade no canto inferior esquerdo
+2botão para subir para o topo no canto inferior direito
+4-mudar o modo de abrir o menu 
+5- colocar o menu flutuante
+
+header
+-Canto superior direito
+1-colocar icons no botão de modo claro/escuro
+2-botão de tradução
+3-adicionar botão de about us, contact
+
+-canto superior esquerdo
+1-Menu
+
+-meio
+
+Nome +logo
