@@ -1,1 +1,1 @@
-YOshio é um pesimo lider
+Façam a parte de voces
